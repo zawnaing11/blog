@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel deleveop2
+                    Laravel deleveop2 new
                 </div>
 
                 <div class="links">
