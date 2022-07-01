@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel issue_9
+                    Laravel issue_9 with pagination file
                 </div>
 
                 <div class="links">
